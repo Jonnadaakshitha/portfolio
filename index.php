@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Akshitha Reddy | Portfolio</title>
     <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Akshitha Reddy Portfolio">
 </head>
 <body>
     <header>
