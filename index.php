@@ -12,7 +12,8 @@
     <header>
         <h1>Akshitha Reddy</h1>
         <nav>
-            <a href="#about">About</a> | <a href="#contact">Contact</a>
+            
+            <a href="auth/login.html" class="btn btn-sm btn-outline-primary">Login</a>
         </nav>
     </header>
 
