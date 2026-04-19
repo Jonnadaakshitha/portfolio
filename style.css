@@ -57,3 +57,4 @@ button {
     border-radius: 5px;
     font-weight: bold;
 }
+button:hover { background: #0056b3; transform: scale(1.02); transition: 0.3s; }
