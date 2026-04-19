@@ -58,3 +58,7 @@ button {
     font-weight: bold;
 }
 button:hover { background: #0056b3; transform: scale(1.02); transition: 0.3s; }
+@media (max-width: 600px) {
+    .hero h2 { font-size: 1.5rem; }
+    section { padding: 1rem; }
+}
